@@ -11,4 +11,4 @@ published: true
 
 ### Friends
 
-[日穿360的大哥](www.mr-fk.cn)
+[日穿360的大哥](http://mr-fk.cn)
