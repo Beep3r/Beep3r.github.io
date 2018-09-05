@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda Thunder
-email: your-email@domain.com
+title: Beep3r
+email: beep3rl@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thunder is a lightning fast responsive theme based on default Jekyll theme. It is minimal and free from JavaScript. It has a css file of size 5kb. 
 url: "http://webjeda.com" # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ baseurl: '/thunder'
 permalink: /:title/
 
 analytics: UA-83979019-1 
-disqus-shortname: webjeda-demo
+disqus-shortname: Beep3r
 
 # Color schemes
 color-1: '#3B97D3'
@@ -24,10 +24,10 @@ color-2: '#26B99A'
 
 # Author pictre 100x100 --> keep it inside img folder.
 author-image: 'author.jpg'
-author-name: 'John Doe' 
-author-about: 'John Doe should be described in a very few words!' 
+author-name: 'Beep3r' 
+author-about: '长期致力于黄浦江捞猪' 
 
-# Build settings
+# Build setting
 markdown: kramdown
 
 sass:
