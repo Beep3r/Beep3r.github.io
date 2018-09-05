@@ -2,12 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 
-Thunder is a minimal responsive Jekyll theme which uses very less ``html`` and ``css`` code. The page-load is within a second. This Jekyll Theme is suitable for simple blogs.
+![fdf5aba7358f7ea5de0ae93835777f70.jpg]({{site.baseurl}}/images/fdf5aba7358f7ea5de0ae93835777f70.jpg)
 
 
-More themes available here: [**Jekyll Themes**](http://blog.webjeda.com/jekyll-themes/)
 
-
+-A Student From CQUPT 
+-Focus on Web,pentest
+-Willing to make friends with u :)
