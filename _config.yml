@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A Security Reseacher && A Student 
 url: "http://beep3r.com" # the base hostname & protocol for your site
 
-baseurl: 
+baseurl: /
 permalink: /:title/
 
 analytics: UA-83979019-1 
