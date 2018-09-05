@@ -5,10 +5,14 @@ permalink: /contact/
 published: true
 ---
  
-### **Email**: [beep3rl@gmail.com](mailto:beep3rl@gmail.com)
+## **Email**: 
+
+### [beep3rl@gmail.com](mailto:beep3rl@gmail.com)
 
 ---
 
-### Friends
+## Friends
 
-[日穿360的大哥](http://mr-fk.cn)
+### [0xFA](http://0xfa.club)
+### [日穿360的大哥](http://mr-fk.cn)
+
