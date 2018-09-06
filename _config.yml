@@ -10,7 +10,7 @@ title: Beep3r
 email: beep3rl@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A Security Reseacher && A Student 
-url: "https://beep3r.com" # the base hostname & protocol for your site
+url: "http://beep3r.com" # the base hostname & protocol for your site
 
 baseurl:  
 permalink: /:title/
